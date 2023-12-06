@@ -13,7 +13,7 @@ const GOOGLE_CLIENT_ID = "72103332887-upik5p08qtg2cggbb8u1auj9s0d470tt.apps.goog
 const GOOGLE_CLIENT_SECRET = "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"
 
 const GITHUB_CLIENT_ID = "2fb171dce9bfc15384f4"
-const GITHUB_CLIENT_SECRET = "35047bd5725be274779810a625177fcee656c68f9"
+const GITHUB_CLIENT_SECRET = "d0d131c78e9b59fa96ead8553b0887ffe4c212c5"
 
 
 passport.use(new GoogleStrategy({
